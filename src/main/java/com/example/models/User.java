@@ -18,8 +18,7 @@ public class User {
 	public User(){
 		this.firstName = "Michał";
 		this.lastName = "Wójtowicz";
-		//this.email = "michal.wojtowicz@ttms.pl";
-		this.email = "krzysztof.magdowski@ttms.pl";
+		this.email = "michal.wojtowicz@ttms.pl";
 		this.description = "Author of this webservice"; 
 		this.specialInformation = generateSpecialInformation();
 	}
